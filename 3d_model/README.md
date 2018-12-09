@@ -1,4 +1,4 @@
-# 3D Model
+# Data Walk • 3D Model
 Open 3D model file with FreeCAD
 
 3D model output file to reproduce the "[Data Walk installation](www.batjo.eu/cookbook/data-walk)".
