@@ -5,3 +5,4 @@ Data Walk is an prototype physical data driven installation that encourages a fu
 
 ![final-output](/final-output.png)
 ![prototype-output](/prototype-output.png)
+![prototype-output](/prototype-output2.jpg)
