@@ -4,3 +4,4 @@
 Data Walk is an prototype physical data driven installation that encourages a fun and intuitive way to interact with data. It consists of one or more large 3D wooden line chart(s) on which the participants can step and walk, thus engaging their sense of balance and touch to perceive the steepness, magnitude and slope of the datapoints and of the overall trend. Workflow can be reused to produce scaled-down versions to install on tables.
 
 ![final-output](/final-output.png)
+![prototype-output](/prototype-output.png)
