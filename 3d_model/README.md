@@ -6,5 +6,6 @@ Supporting material for Batjo's project "[Data Driven News Installations. A digi
 
 Refer to project's website for [more context](www.batjo.eu/cookbook) and for an overview of the [Data Walk installation](www.batjo.eu/cookbook/data-walk)
 
+The fine with the final 3D model is `data-walk-output-text.fcstd`
 ![output](http://batjo.eu/cookbook/data-walk/img/output-all-model.png)
 
