@@ -1,5 +1,5 @@
 # Data Walk • 3D Model
-Open 3D model file with FreeCAD
+Use [FreeCAD](https://www.freecadweb.org/) to open `.fcstd` files.
 
 3D model output file to reproduce the "[Data Walk installation](www.batjo.eu/cookbook/data-walk)".
 Supporting material for Batjo's project "[Data Driven News Installations. A digital fabrication cookbook for journalists](www.batjo.eu/cookbook)".
